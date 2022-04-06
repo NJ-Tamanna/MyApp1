@@ -1,0 +1,10 @@
+C:\Users\nusra\source\repos\MyApp1\MyApp1\bin\Debug\MyApp1.exe.config
+C:\Users\nusra\source\repos\MyApp1\MyApp1\bin\Debug\MyApp1.exe
+C:\Users\nusra\source\repos\MyApp1\MyApp1\bin\Debug\MyApp1.pdb
+C:\Users\nusra\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.AssemblyReference.cache
+C:\Users\nusra\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.Form1.resources
+C:\Users\nusra\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.Properties.Resources.resources
+C:\Users\nusra\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.GenerateResource.cache
+C:\Users\nusra\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.CoreCompileInputs.cache
+C:\Users\nusra\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.exe
+C:\Users\nusra\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.pdb
